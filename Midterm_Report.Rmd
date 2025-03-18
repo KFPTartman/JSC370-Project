@@ -464,6 +464,7 @@ summary_gt_table <- summary_table %>%
 # Display the formatted table
 summary_gt_table
 ```
+Link to repository: https://github.com/KFPTartman/JSC370-Project/blob/main/Midterm-Report.pdf
 
 # 1. Introduction
 
